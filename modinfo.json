@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "landscaperadd",
+    "name": "NewEnglandProfessions",
+    "authors": [ "xanderrootslayer" ],
+    "description": "Adds a pair of common jobs that were oddly absent from the game.",
+    "category": "professions",
+    "dependencies": [ "dda" ]
+  }
+]
